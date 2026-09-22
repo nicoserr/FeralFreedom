@@ -1,0 +1,7 @@
+/build/
+/.vs/
+/out/
+/ext/project_path.hpp
+yarn-error.log
+/ext/project_path.hpp
+/data/json/PlayState.json
